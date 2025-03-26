@@ -87,6 +87,24 @@ Implemented text classification using neural networks in Keras:
 ## Conclusion
 The combined CNN-LSTM model achieves robust performance in sentiment classification tasks, efficiently capturing both local patterns and broader contextual information in textual data.
 
+#### How This Project Benefits a Company:
+- Enhanced Decision-Making: Quickly identify customer sentiment, enabling responsive decision-making.
+
+- Operational Efficiency: Automates manual processes, saving resources and time spent on analyzing textual feedback.
+
+- Improved Customer Experience: Rapidly understand and address customer sentiment, leading to improved customer satisfaction.
+
+#### Results Achieved:
+- Developed an accurate, reliable text-classification model (CNN combined with LSTM) capable of effectively classifying reviews with high accuracy.
+
+- Enabled real-time or near real-time insights into customer sentiment, allowing the company to swiftly address feedback and adjust strategies.
+
+#### Impact on Company Improvement:
+- Cost Reduction: Lowered costs associated with manual text analysis.
+
+- Strategic Advantage: Gained faster insights into customer preferences, sentiment, and potential issues, enabling proactive rather than reactive strategies.
+
+- Scalability: Enhanced capability to analyze large volumes of text data efficiently, supporting future growth and data-driven initiatives.
 ---
 
 ## References
@@ -94,6 +112,7 @@ The combined CNN-LSTM model achieves robust performance in sentiment classificat
 - [CNN & LSTM for Text Classification Tutorial](https://medium.com)
 
 ---
+
 
 
 ## License
