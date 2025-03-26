@@ -2,7 +2,7 @@
 # Text Classification Using CNN and LSTM
 
 ## Overview
-This project demonstrates the use of **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks for text classification, specifically addressing the sentiment analysis of article reviews. It includes steps for data exploration, preprocessing, and model implementation using neural networks.
+This project demonstrates the use of **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks for text classification, specifically addressing the sentiment analysis of article reviews. It includes steps for data exploration, preprocessing, and model implementation using neural networks. 
 
 ---
 
@@ -86,6 +86,8 @@ Implemented text classification using neural networks in Keras:
 
 ## Conclusion
 The combined CNN-LSTM model achieves robust performance in sentiment classification tasks, efficiently capturing both local patterns and broader contextual information in textual data.
+
+The purpose of the Text Classification Project using CNN and LSTM is to efficiently automate the categorization of textual data, specifically to classify article reviews into positive or negative sentiments. This automation facilitates rapid insight generation from unstructured data, reducing manual analysis efforts and providing scalable, cost-effective text processing.
 
 #### How This Project Benefits a Company:
 - Enhanced Decision-Making: Quickly identify customer sentiment, enabling responsive decision-making.
