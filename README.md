@@ -1,6 +1,3 @@
-Here's a structured README file tailored specifically for your GitHub repository, based on the uploaded document about text classification:
-
----
 
 # Text Classification Using CNN and LSTM
 
